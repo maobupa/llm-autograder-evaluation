@@ -1,0 +1,751 @@
+Model,Condition_Row,Condition_Col,dCor_Sq
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.902997646666238
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.5538032807208564
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.44040325574409656
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.012821760527169882
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.902997646666238
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.46992001289659346
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.4648538269575742
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.005863480004177002
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.902997646666238
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.4822964238527371
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.4941306135991084
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.04284744428422413
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.8786939020104818
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.587332379286176
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.4386614652499906
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.0453882563974279
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.8172429832322357
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.5644956570591942
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.40856125809846133
+gpt-4.1,On the Same Rubric Item,Human-LLM Correlations,0.004014197119116828
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.902997646666238
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.6243548947577683
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.644162306720274
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.5690141500788383
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.8786939020104818
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.5930935787753732
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.6324113461810457
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.5669091892377033
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.8701818407295955
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.606886608434472
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.6784053382693855
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.5348501648139483
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.902997646666238
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.6743658047325068
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.6471848297630148
+gpt-4.1,On the Same Rubric Item,Between-LLMs Correlations,0.5283637297504351
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.4098839665585877
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.44040325574409656
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.008994569532589576
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.5431735811313432
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3043268767690695
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.902997646666238
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.4098839665585877
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.008994569532589576
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.7852209619237662
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.43769629735538595
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3774939861840615
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.4098839665585877
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.44040325574409656
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.008994569532589576
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.2211203304827845
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.12034807573804486
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.5285435513171769
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.35382890764116354
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.7853525710534345
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3067097227758017
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.31906425053223614
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.4098839665585877
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.44040325574409656
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.008994569532589576
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3872007760304994
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.19086393681351876
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.7748755670353825
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.47210640329238535
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.8494151814131119
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3502893399161387
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3798820336861677
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3898771496845136
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.4392486976315932
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.009680643549249834
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.20981415464180114
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.12571405367976982
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.8546358410514385
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.37110110794302076
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.01040798762979868
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.011946890839727104
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0030526626511038803
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.014640228019725752
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.35402910990511327
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.38251899765254144
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.3351293372116633
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.1602248410061015
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.4684668978825405
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.2722286470177447
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.01639769864808095
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Human-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.37084568414395946
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.35438000538519915
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4098839665585877
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.24048585735966338
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.44040325574409656
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.22262849943556368
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.008994569532590082
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.32208160278404685
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.454535742366169
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4084137035181427
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.2701043751041642
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4200356704727168
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.21751984181748985
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.009680643549250082
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.36411019408127837
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4074311573652121
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.33355418086951294
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.2234296652845008
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.3774939861840606
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.2309667427744029
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4545357423661678
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4509160275155247
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.4098839665585877
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.2315457885760087
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.44040325574409656
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.25622604812229977
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.008994569532590082
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Between-LLMs Correlations,0.0
+gpt-4.1,On Different Rubric Items,Within-LLM Correlations,0.33734767899089707
+gpt-4.1,On Different Rubric Items,Within-LLM Correlations,0.36646807955697386
+gpt-4.1,On Different Rubric Items,Within-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Within-LLM Correlations,0.2605887455029749
+gpt-4.1,On Different Rubric Items,Within-LLM Correlations,0.0
+gpt-4.1,On Different Rubric Items,Within-LLM Correlations,0.00019214031942924904
+o3,On the Same Rubric Item,Human-LLM Correlations,0.9999999999999961
+o3,On the Same Rubric Item,Human-LLM Correlations,0.6149861813430203
+o3,On the Same Rubric Item,Human-LLM Correlations,0.4278799182720946
+o3,On the Same Rubric Item,Human-LLM Correlations,0.006789635890694415
+o3,On the Same Rubric Item,Human-LLM Correlations,0.9999999999999961
+o3,On the Same Rubric Item,Human-LLM Correlations,0.723955478560782
+o3,On the Same Rubric Item,Human-LLM Correlations,0.45197134112131426
+o3,On the Same Rubric Item,Human-LLM Correlations,0.0
+o3,On the Same Rubric Item,Human-LLM Correlations,0.9999999999999961
+o3,On the Same Rubric Item,Human-LLM Correlations,0.8009812191317935
+o3,On the Same Rubric Item,Human-LLM Correlations,0.45990211997840824
+o3,On the Same Rubric Item,Human-LLM Correlations,0.008594871814142984
+o3,On the Same Rubric Item,Human-LLM Correlations,0.975375551294652
+o3,On the Same Rubric Item,Human-LLM Correlations,0.7245426879848551
+o3,On the Same Rubric Item,Human-LLM Correlations,0.4265054613951035
+o3,On the Same Rubric Item,Human-LLM Correlations,0.014349885787470635
+o3,On the Same Rubric Item,Human-LLM Correlations,0.9093531090413056
+o3,On the Same Rubric Item,Human-LLM Correlations,0.7983329816342835
+o3,On the Same Rubric Item,Human-LLM Correlations,0.5483509333628591
+o3,On the Same Rubric Item,Human-LLM Correlations,0.04237185211074665
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.902997646666238
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.6243548947577695
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.644162306720274
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.5690141500788366
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.975375551294652
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.7605553571773317
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.52904208089099
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.946692355041691
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.8798046972763413
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.7401066106722594
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.7789754673125688
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.6611094019172064
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.9999999999999961
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.5801821223757796
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.6617251587512019
+o3,On the Same Rubric Item,Between-LLMs Correlations,0.9503473524027769
+o3,On Different Rubric Items,Human-LLM Correlations,0.44560472797111517
+o3,On Different Rubric Items,Human-LLM Correlations,0.4278799182720946
+o3,On Different Rubric Items,Human-LLM Correlations,0.0047629849263207255
+o3,On Different Rubric Items,Human-LLM Correlations,0.6266319888427353
+o3,On Different Rubric Items,Human-LLM Correlations,0.2983812268261228
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.9999999999999961
+o3,On Different Rubric Items,Human-LLM Correlations,0.44560472797111517
+o3,On Different Rubric Items,Human-LLM Correlations,0.0047629849263207255
+o3,On Different Rubric Items,Human-LLM Correlations,0.8798046972763413
+o3,On Different Rubric Items,Human-LLM Correlations,0.49474392209946283
+o3,On Different Rubric Items,Human-LLM Correlations,0.43496729301806447
+o3,On Different Rubric Items,Human-LLM Correlations,0.44560472797111517
+o3,On Different Rubric Items,Human-LLM Correlations,0.4278799182720946
+o3,On Different Rubric Items,Human-LLM Correlations,0.0047629849263207255
+o3,On Different Rubric Items,Human-LLM Correlations,0.28259051484905345
+o3,On Different Rubric Items,Human-LLM Correlations,0.1509862002329312
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.6103807538786786
+o3,On Different Rubric Items,Human-LLM Correlations,0.3683395727349844
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.7966380569969981
+o3,On Different Rubric Items,Human-LLM Correlations,0.3265168214345683
+o3,On Different Rubric Items,Human-LLM Correlations,0.3234177506613899
+o3,On Different Rubric Items,Human-LLM Correlations,0.44560472797111517
+o3,On Different Rubric Items,Human-LLM Correlations,0.4278799182720946
+o3,On Different Rubric Items,Human-LLM Correlations,0.0047629849263207255
+o3,On Different Rubric Items,Human-LLM Correlations,0.462808480878831
+o3,On Different Rubric Items,Human-LLM Correlations,0.22665960753091208
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.8273624387896259
+o3,On Different Rubric Items,Human-LLM Correlations,0.4145353292005978
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.902997646666238
+o3,On Different Rubric Items,Human-LLM Correlations,0.3708456841439603
+o3,On Different Rubric Items,Human-LLM Correlations,0.3679934686691953
+o3,On Different Rubric Items,Human-LLM Correlations,0.4254838595829241
+o3,On Different Rubric Items,Human-LLM Correlations,0.40768279520269507
+o3,On Different Rubric Items,Human-LLM Correlations,0.005126288605039635
+o3,On Different Rubric Items,Human-LLM Correlations,0.2715593967693111
+o3,On Different Rubric Items,Human-LLM Correlations,0.10072132529122647
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.9508992025236428
+o3,On Different Rubric Items,Human-LLM Correlations,0.4062876094559889
+o3,On Different Rubric Items,Human-LLM Correlations,0.005511446436033621
+o3,On Different Rubric Items,Human-LLM Correlations,0.020576587366339976
+o3,On Different Rubric Items,Human-LLM Correlations,0.031379705362664746
+o3,On Different Rubric Items,Human-LLM Correlations,0.004911984361259037
+o3,On Different Rubric Items,Human-LLM Correlations,0.38795595951839507
+o3,On Different Rubric Items,Human-LLM Correlations,0.37087070648094866
+o3,On Different Rubric Items,Human-LLM Correlations,0.005237772740823053
+o3,On Different Rubric Items,Human-LLM Correlations,0.40774201707818747
+o3,On Different Rubric Items,Human-LLM Correlations,0.18618929919658203
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.5487158754717821
+o3,On Different Rubric Items,Human-LLM Correlations,0.2748757207515466
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.012311481038675562
+o3,On Different Rubric Items,Human-LLM Correlations,0.0
+o3,On Different Rubric Items,Human-LLM Correlations,0.006518197213967584
+o3,On Different Rubric Items,Between-LLMs Correlations,0.4098839665585877
+o3,On Different Rubric Items,Between-LLMs Correlations,0.44040325574409656
+o3,On Different Rubric Items,Between-LLMs Correlations,0.008994569532589576
+o3,On Different Rubric Items,Between-LLMs Correlations,0.3708456841439603
+o3,On Different Rubric Items,Between-LLMs Correlations,0.22262849943556368
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.3543800053851987
+o3,On Different Rubric Items,Between-LLMs Correlations,0.24048585735966338
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.3922202147346991
+o3,On Different Rubric Items,Between-LLMs Correlations,0.5342345497745474
+o3,On Different Rubric Items,Between-LLMs Correlations,0.004509081416924567
+o3,On Different Rubric Items,Between-LLMs Correlations,0.44728358157436315
+o3,On Different Rubric Items,Between-LLMs Correlations,0.29723886672902755
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.40768279520269507
+o3,On Different Rubric Items,Between-LLMs Correlations,0.2662450876496197
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.005126288605039635
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.4228988552604423
+o3,On Different Rubric Items,Between-LLMs Correlations,0.4835279718108484
+o3,On Different Rubric Items,Between-LLMs Correlations,0.008758020597053821
+o3,On Different Rubric Items,Between-LLMs Correlations,0.37008291073220756
+o3,On Different Rubric Items,Between-LLMs Correlations,0.228273918670084
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.33910232632744564
+o3,On Different Rubric Items,Between-LLMs Correlations,0.3239898553532062
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.5342345497745471
+o3,On Different Rubric Items,Between-LLMs Correlations,0.5302283550584741
+o3,On Different Rubric Items,Between-LLMs Correlations,0.004526490114262764
+o3,On Different Rubric Items,Between-LLMs Correlations,0.44560472797111517
+o3,On Different Rubric Items,Between-LLMs Correlations,0.22991040595051815
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.4278799182720946
+o3,On Different Rubric Items,Between-LLMs Correlations,0.2907349847091915
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0047629849263207255
+o3,On Different Rubric Items,Between-LLMs Correlations,0.004251686469985993
+o3,On Different Rubric Items,Between-LLMs Correlations,0.0
+o3,On Different Rubric Items,Within-LLM Correlations,0.44560472797111517
+o3,On Different Rubric Items,Within-LLM Correlations,0.4278799182720946
+o3,On Different Rubric Items,Within-LLM Correlations,0.0047629849263207255
+o3,On Different Rubric Items,Within-LLM Correlations,0.26040980826182936
+o3,On Different Rubric Items,Within-LLM Correlations,0.0
+o3,On Different Rubric Items,Within-LLM Correlations,0.0
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.975375551294652
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.6085304343300975
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.5342345497745474
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.006427696391236853
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.975375551294652
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.5511945403390602
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.55125893051386
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.003107189173773583
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.975375551294652
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.6984435996524386
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.4987820456684986
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.014174647038600585
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.9507983564778703
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.5456027416271736
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.5441955400321242
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.025005624824460296
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.8859061398861385
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.6216948999956736
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.37948847207696634
+gemini-2.5-flash,On the Same Rubric Item,Human-LLM Correlations,0.019944756269946042
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.8786939020104818
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.5930935787753742
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.632411346181046
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.5669091892377033
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.975375551294652
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.7605553571773317
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.52904208089099
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.946692355041691
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.8556232600610574
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.6891535450878602
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.5772507901306153
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.7014522784862329
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.975375551294652
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.6224170956247528
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.6021842175198838
+gemini-2.5-flash,On the Same Rubric Item,Between-LLMs Correlations,0.9443326737764995
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.3922202147346991
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.5342345497745474
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.004509081416924567
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.6367925055018077
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.4165372312092975
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.975375551294652
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.3922202147346991
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.004509081416924567
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.8556232600610574
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.46613523425937947
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.47877510808894735
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.3922202147346991
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.5342345497745474
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.004509081416924567
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.30414552188859095
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.1536533152563489
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.5890944377368579
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.3248250329480088
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.7741959431004874
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.3059386678356655
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.40583508120707185
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.3922202147346991
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.5342345497745474
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.004509081416924567
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.4656630804049024
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.27704048762947514
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.804091076326848
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.45227442177614957
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.8786939020104818
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.32208160278404685
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.47541551571729157
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.37345616849382934
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.5130778311269084
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.00485301823212829
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.292272989057226
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.15256290993241747
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.9263939686862914
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.35548415953148793
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0052176442062163144
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.02214609682339871
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.02901936908009213
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.33949029771610517
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.47071461802734027
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.004958559411184755
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.4074541155513936
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.24451143413378146
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.5275673686928228
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.2665411086216974
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.013250557357629643
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Human-LLM Correlations,0.0063331420608774384
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.4084137035181427
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.4200356704727168
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.009680643549249834
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.32208160278404757
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.21751984181748985
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.454535742366169
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.2701043751041642
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.44728358157436315
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.40768279520269507
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.005126288605039635
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.3922202147346991
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.26624508764962024
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.534234549774547
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.2972388667290266
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.004509081416924567
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.42277161815865294
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.46277768472305764
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.009426051495835018
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.32278767315563955
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.19901928960523813
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.4561768581893001
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.26929622527669833
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.5130778311269081
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.5090486572561083
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.004871754803452272
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.3922202147346991
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.18822282812607322
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.534234549774547
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.31491357486064453
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.004509081416924567
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Between-LLMs Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Within-LLM Correlations,0.3948198692860671
+gemini-2.5-flash,On Different Rubric Items,Within-LLM Correlations,0.5130778311269084
+gemini-2.5-flash,On Different Rubric Items,Within-LLM Correlations,0.00485301823212829
+gemini-2.5-flash,On Different Rubric Items,Within-LLM Correlations,0.22220435206852998
+gemini-2.5-flash,On Different Rubric Items,Within-LLM Correlations,0.0
+gemini-2.5-flash,On Different Rubric Items,Within-LLM Correlations,0.0
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.8798046972763413
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.5033860403495753
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.4835279718108484
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.000247219009426427
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.8798046972763413
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.5750390218682202
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.4231551974442192
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.009385596161507151
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.8798046972763413
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.6364107161135262
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.44855523773698225
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.019684407360450278
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.8999177358071737
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.52978775111723
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.46223274912034834
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.05497340800102659
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.7953058181428596
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.6608342649619494
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.5720512476437487
+sonnet-4.6,On the Same Rubric Item,Human-LLM Correlations,0.05426477726074597
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.8701818407295957
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.606886608434472
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.6784053382693862
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.5348501648139483
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.8798046972763413
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.7401066106722594
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.7789754673125692
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.6611094019172064
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.8556232600610574
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.6891535450878582
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.5772507901306153
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.7014522784862329
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.8798046972763413
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.6539378756770955
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.7345319830851493
+sonnet-4.6,On the Same Rubric Item,Between-LLMs Correlations,0.66080223315429
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4228988552604423
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4835279718108484
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.008758020597053821
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.5239698263782848
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.314459686797996
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.8798046972763413
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4228988552604423
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.008758020597053821
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.7628390283106042
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.46451022746484916
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.44162120117614334
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4228988552604423
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4835279718108484
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.008758020597053821
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.23777627132007995
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.11618236480764575
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.5360770927715923
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.36747935591416403
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.7624372341885552
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.3208793105559279
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.37486502216936723
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4228988552604423
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4835279718108484
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.008758020597053821
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.38758117175732504
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.2147657914080757
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.7521973056930155
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.5000743576205663
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.8255881611939473
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.3641101940812792
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.42274646525897513
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.402872727497775
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4627776847230572
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.009426051495835018
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.20818698880858705
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.10459480554420963
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.8317113805306898
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.3839308990378587
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.010134267093645816
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.013081308020570984
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.023505008299178475
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.007323354342640239
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.3664323440618899
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.42301580812587464
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.33257573921530403
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.1759378505924518
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.4503961323656173
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.2893668331903414
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.01755001849068607
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Human-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.33355418086951294
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.3774939861840615
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.36411019408127754
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.2309667427744029
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.40743115736521124
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.2234296652845021
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.37008291073220756
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.33910232632744564
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.4228988552604423
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.3239898553532062
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.4835279718108491
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.228273918670084
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.008758020597053821
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.32278767315563955
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.45617685818930115
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.42277161815865294
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.26929622527669833
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.4627776847230574
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.19901928960523813
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.009426051495835018
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.45617685818930087
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.4334890960646001
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.4228988552604423
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.24897028903435248
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.4835279718108491
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.2623304216570326
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.008758020597053821
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Between-LLMs Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Within-LLM Correlations,0.3629561187185736
+sonnet-4.6,On Different Rubric Items,Within-LLM Correlations,0.3913766566819199
+sonnet-4.6,On Different Rubric Items,Within-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Within-LLM Correlations,0.23715261048195782
+sonnet-4.6,On Different Rubric Items,Within-LLM Correlations,0.0
+sonnet-4.6,On Different Rubric Items,Within-LLM Correlations,0.0
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.9999999999999961
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.6062849661722256
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.5302283550584741
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.006452512492498036
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.9999999999999961
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.481224787898931
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.43181862297253276
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.011150408025083979
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.9999999999999961
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.5527141174908473
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.4826628795523328
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.023448598434876244
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.975375551294652
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.4896634385484847
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.5379736582029202
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.041941799063209585
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.9093531090413056
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.5696074375721812
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.5070684731958462
+deepseek,On the Same Rubric Item,Human-LLM Correlations,0.029897963205040845
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.902997646666238
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6743658047325068
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6471848297630148
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.5283637297504349
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.9999999999999961
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.5801821223757793
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6617251587512019
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.9503473524027769
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.975375551294652
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6224170956247528
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6021842175198842
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.9443326737764995
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.8798046972763413
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6539378756770962
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.7345319830851497
+deepseek,On the Same Rubric Item,Between-LLMs Correlations,0.6608022331542898
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5342345497745471
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5302283550584741
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.004526490114262764
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.6266319888427353
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.3296707033914932
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.9999999999999961
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5342345497745471
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.004526490114262764
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.8798046972763413
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5337133754402901
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.45141237570204057
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5342345497745471
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5302283550584741
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.004526490114262764
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.28259051484905345
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.14811334687973618
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.6103807538786786
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.4044346392619021
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.7966380569969981
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.4276791444103773
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.40129418873450956
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5342345497745471
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5302283550584741
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.004526490114262764
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.462808480878831
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.2311823312867275
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.8273624387896259
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5218690696048718
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.902997646666238
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.47541551571729124
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.47046027359121023
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5130778311269081
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5090486572561074
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.004871754803452272
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.2715593967693111
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.1039405238275268
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.9508992025236428
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.49270064388505336
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.00523778852839431
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.020576587366339976
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.00478481270946245
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.007050833943619732
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.47071461802733905
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.46684214231606763
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0049777034567288795
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.40774201707818747
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.1967345185431764
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.5487158754717821
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.36044849208432983
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.012311481038675562
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.024401223822791463
+deepseek,On Different Rubric Items,Human-LLM Correlations,0.0022898903389775385
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4098839665585877
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.44040325574409656
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.008994569532589576
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4545357423661678
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.2562260481222995
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4509160275155247
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.2315457885760087
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.44560472797111517
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4278799182720946
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0047629849263207255
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.5342345497745467
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.2907349847091915
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.004251686469985815
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.5302283550584741
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.22991040595051815
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.004526490114262764
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.3922202147346991
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.5342345497745474
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.004509081416924567
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.5130778311269079
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.31491357486064453
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.5090486572561083
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.18822282812607263
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.004871754803452272
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4228988552604423
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4835279718108484
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.008758020597053821
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.45617685818930065
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.2623304216570326
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.4334890960646001
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.24897028903435248
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Between-LLMs Correlations,0.0
+deepseek,On Different Rubric Items,Within-LLM Correlations,0.5342345497745471
+deepseek,On Different Rubric Items,Within-LLM Correlations,0.5302283550584741
+deepseek,On Different Rubric Items,Within-LLM Correlations,0.004526490114262764
+deepseek,On Different Rubric Items,Within-LLM Correlations,0.2734467632343324
+deepseek,On Different Rubric Items,Within-LLM Correlations,0.0
+deepseek,On Different Rubric Items,Within-LLM Correlations,0.0

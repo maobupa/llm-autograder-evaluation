@@ -1,0 +1,36 @@
+# Secrets
+.env
+.env.local
+*.key
+
+# Student data — private, never commit
+data/
+runs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+ENV/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Misc
+*.log
+*.bak
+*.tmp
+
+# Research Plan
+research_plan.md
+
+# Paper source — published through the venue, not here
+paper/
