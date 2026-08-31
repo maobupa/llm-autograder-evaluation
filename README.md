@@ -1,16 +1,22 @@
-# Do LLM Graders Agree With Humans, or With Each Other?
+# Evaluating LLM Autograders Without Ground Truth
 
-Analysis code for a measurement study comparing LLM code graders to human
-graders on two introductory-programming datasets.
+Analysis code for **"Evaluating LLM Autograders Without Ground Truth"** —
+Huijun Mao and Chris Piech, Stanford University.
 
-This repository is a **methods reference**, not a reproduction package. The
-student submissions and the human grades cannot be released (see
-[Data availability](#data-availability)), so the scripts here will not run
-end-to-end. What they do provide is the complete, readable implementation of
-every statistic reported in the paper: how the distance correlations were
-computed, how the bootstrap confidence intervals were constructed and
-bias-corrected, and how the generalizability-theory variance components were
-estimated.
+LLM autograders are usually evaluated against human "ground truth": a single
+reference label from one annotator, or an aggregate of several. This study
+instead treats humans and LLMs as **two grading systems** and characterizes
+their agreement and disagreement directly, using distance correlation and
+generalizability theory across two introductory-programming datasets.
+
+This repository is primarily a **methods reference**. The CIP submissions and
+human grades cannot be released, so that half will not run end-to-end; the
+Menagerie dataset is public, so that half can be reproduced if you obtain it
+(see [Data availability](#data-availability)). What the code provides in either
+case is the complete, readable implementation of every statistic reported in the
+paper: how the distance correlations were computed, how the bootstrap confidence
+intervals were constructed and bias-corrected, and how the
+generalizability-theory variance components were estimated.
 
 If you are doing similar work, the two files most likely to be useful to you
 are `analysis/rq1_dcor.py` (the bootstrap and its bias correction) and
@@ -21,9 +27,10 @@ are `analysis/rq1_dcor.py` (the bootstrap and its bias correction) and
 ## What the study does
 
 Five LLM graders (GPT-4.1, o3, Gemini 2.5 Flash, Claude Sonnet 4.6, and
-DeepSeek V4 Flash) graded the same student work as the human graders who
-originally marked it, using the same rubric. We then asked how much the graders
-agreed, and where the agreement broke down.
+DeepSeek-V4) graded the same student work as the human graders who originally
+marked it, using the same prompt and rubric the humans used, at temperature
+0.3. We then asked how much the graders agreed, and where the agreement broke
+down.
 
 Two datasets were chosen to sit at opposite ends of the assessment space:
 
@@ -36,6 +43,10 @@ Two datasets were chosen to sit at opposite ends of the assessment space:
 | Design | fully crossed | nested within groups |
 | Rubric | 4 items, 3-point (0 = correct) | 4 skills, 14-point (`A++`…`F`) |
 | Rubric items | input, conditional logic, printing, syntax errors | correctness, code elegance, readability, documentation |
+
+The paper abbreviates the CIP rubric items; the code uses the fuller column
+names. They map as `input` → `input`, `logic` → `conditional_logic`,
+`print` → `printing`, `syntax` → `syntax_errors`.
 
 Two research questions are addressed here:
 
@@ -53,6 +64,7 @@ analysis/     all statistics reported in the paper
   rq1_dcor.py                  RQ1, CIP: dCor + transcript bootstrap
   rq1_dcor_menagerie.py        RQ1, Menagerie: NaN-aware dCor for the nested design
   rq1_dcor_humanhuman.py       human-human agreement + pair-type contrasts
+  rq1_dcor_perhuman.py         RQ1, CIP: the same 2x3 panel, one bar per human
   rq2_gstudy.py                RQ2, CIP: per-system G-study
   rq2_gstudy_menagerie.py      RQ2, Menagerie: per-system G-study
   rq2_combined.py              RQ2, CIP: rater type as a fixed facet
@@ -72,11 +84,35 @@ results/      aggregate outputs: correlations, variance components, CIs, figures
 
 `data/` and `runs/` are intentionally absent; see below.
 
+## Finding the code behind each result
+
+| In the paper | Script | Output |
+|---|---|---|
+| Figure 1 — Menagerie dCor panel | `analysis/rq1_dcor_menagerie.py` | `results/dcor_menagerie_figure3.png` |
+| Figure 2 — CIP dCor panel | `analysis/rq1_dcor.py` | `results/dcor_cip_figure3.png` |
+| §3.1 bootstrap gap test (Δ dCor²*n*, *p*) | same two scripts | `results/dcor_{cip,menagerie}_difference_test.csv` |
+| Table 1 — σ²*ₛ*ₓ*ₜ* and *r*ₛᵧₛ | `analysis/rq2_combined.py`, `analysis/rq2_combined_menagerie.py` | `results/gstudy_{cip,menagerie}_combined.csv` |
+| §3.2 per-system variance components | `analysis/rq2_gstudy.py`, `analysis/rq2_gstudy_menagerie.py` | `results/gstudy_{cip,menagerie}_variance_components.csv` |
+| Appendix A — grading prompts | `scripts/grade_multi_model.py`, `src/utils.py` | — |
+| Appendix C.1 — Human–Human dCor | `analysis/rq1_dcor_humanhuman.py` | `results/appendix_c_dcor_humanhuman.png`, `results/dcor_humanhuman_{cells,contrasts}.csv` |
+| Appendix figures and LaTeX tables | `analysis/appendix_c_outputs.py` | `results/*.png`, `paper/tables/*.tex` |
+
+Not in the paper: `analysis/rq1_dcor_perhuman.py` reruns the CIP panel with one
+bar per human grader instead of per LLM (`results/dcor_cip_perhuman.png`). It
+shows that human–LLM agreement is flat across the five humans (0.50–0.52),
+while *within*-human cross-rubric correlation varies widely (0.23–0.77) —
+individual halo effect, largely absent in the LLMs.
+
 ## Data availability
 
-**Student submissions and individual human grades are not published.** They are
-coursework produced by identifiable students and marked by identifiable
+**CIP student submissions and individual human grades are not published.** They
+are coursework produced by identifiable students and marked by identifiable
 instructors, and cannot be redistributed.
+
+**Menagerie is a public dataset** (Messer et al., 2025) and can be obtained from
+its authors. If you get it and build `runs/menagerie_compiled.csv` in the format
+below, the Menagerie half of this analysis runs end to end. The CIP half cannot
+be reproduced without the private data.
 
 `data/` (submissions and rubrics) and `runs/` (raw grading outputs and compiled
 score matrices) are therefore excluded from this repository. `results/`
@@ -177,4 +213,11 @@ are needed only to run the grading scripts, not the analysis. Full list in
 
 ## Citation
 
-Citation details will be added on publication.
+> Huijun Mao and Chris Piech. *Evaluating LLM Autograders Without Ground Truth.*
+> Stanford University. Under review.
+
+A BibTeX entry and venue details will be added on publication.
+
+The Menagerie dataset is due to Messer et al. (2025); CIP submissions come from
+Code in Place (Stanford University, 2024). Please cite those sources
+independently if you use them.
