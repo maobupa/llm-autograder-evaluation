@@ -1,6 +1,6 @@
 # Evaluating LLM Autograders Without Ground Truth
 
-Analysis code for **"Evaluating LLM Autograders Without Ground Truth"** —
+Analysis code for the paper **"Evaluating LLM Autograders Without Ground Truth"** —
 Huijun Mao and Chris Piech, Stanford University.
 
 LLM autograders are usually evaluated against human "ground truth": a single
@@ -48,26 +48,31 @@ The paper abbreviates the CIP rubric items; the code uses the fuller column
 names. They map as `input` → `input`, `logic` → `conditional_logic`,
 `print` → `printing`, `syntax` → `syntax_errors`.
 
-Two research questions are addressed here:
+Nothing here is a new statistic. The repository applies two established methods
+to this setting:
 
-- **RQ1 — Alignment.** Squared bias-corrected distance correlation between
-  graders: human–LLM, between-LLM, within-LLM, and human–human, on the same
-  rubric item and across different rubric items.
-- **RQ2 — Grading systems.** Generalizability-theory decomposition of score
-  variance, run separately for the human and LLM systems, and combined with
-  rater type as a fixed facet.
+- **The dCor analysis — alignment.** Squared bias-corrected distance
+  correlation between graders: human–LLM, between-LLM, within-LLM, and
+  human–human, on the same rubric item and across different rubric items.
+  The measure and its use for LLM–human misalignment follow
+  [Hardy and Kim (2026)](https://arxiv.org/abs/2603.00883).
+- **The G-study — grading systems.** Generalizability-theory decomposition of
+  score variance, run separately for the human and LLM systems, and combined
+  with rater type as a fixed facet. The design and estimators follow Brennan,
+  *Generalizability Theory* (Springer, 2001); the variance components here are
+  estimated with standard Python libraries rather than Brennan's own software.
 
 ## Repository layout
 
 ```
 analysis/     all statistics reported in the paper
-  rq1_dcor.py                  RQ1, CIP: dCor + transcript bootstrap
-  rq1_dcor_menagerie.py        RQ1, Menagerie: NaN-aware dCor for the nested design
+  rq1_dcor.py                  dCor, CIP: dCor + transcript bootstrap
+  rq1_dcor_menagerie.py        dCor, Menagerie: NaN-aware dCor for the nested design
   rq1_dcor_humanhuman.py       human-human agreement + pair-type contrasts
-  rq1_dcor_perhuman.py         RQ1, CIP: the same 2x3 panel, one bar per human
-  rq2_gstudy.py                RQ2, CIP: per-system G-study
-  rq2_gstudy_menagerie.py      RQ2, Menagerie: per-system G-study
-  rq2_combined.py              RQ2, CIP: rater type as a fixed facet
+  rq1_dcor_perhuman.py         dCor, CIP: the same 2x3 panel, one bar per human
+  rq2_gstudy.py                G-study, CIP: per-system variance components
+  rq2_gstudy_menagerie.py      G-study, Menagerie: per-system variance components
+  rq2_combined.py              G-study, CIP: rater type as a fixed facet
   rq2_combined_menagerie.py    RQ2, Menagerie: same
   appendix_c_outputs.py        regenerates appendix figures and LaTeX tables
 
@@ -109,7 +114,7 @@ individual halo effect, largely absent in the LLMs.
 are coursework produced by identifiable students and marked by identifiable
 instructors, and cannot be redistributed.
 
-**Menagerie is a public dataset** (Messer et al., 2025) and can be obtained from
+**Menagerie is a public dataset** [Messer et al. (2025)](https://osf.io/q8jbt/overview) and can be obtained from
 its authors. If you get it and build `runs/menagerie_compiled.csv` in the format
 below, the Menagerie half of this analysis runs end to end. The CIP half cannot
 be reproduced without the private data.
@@ -213,11 +218,33 @@ are needed only to run the grading scripts, not the analysis. Full list in
 
 ## Citation
 
-> Huijun Mao and Chris Piech. *Evaluating LLM Autograders Without Ground Truth.*
-> Stanford University. Under review.
-
 A BibTeX entry and venue details will be added on publication.
 
-The Menagerie dataset is due to Messer et al. (2025); CIP submissions come from
-Code in Place (Stanford University, 2024). Please cite those sources
+Citations for the two methods applied here:
+
+```bibtex
+@misc{hardy2026knowledgewisdommeasuringmisalignment,
+  title         = {Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact},
+  author        = {Michael Hardy and Yunsung Kim},
+  year          = {2026},
+  eprint        = {2603.00883},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url           = {https://arxiv.org/abs/2603.00883}
+}
+
+@book{Brennan2001,
+  author    = {Brennan, Robert L.},
+  title     = {Generalizability Theory},
+  year      = {2001},
+  publisher = {Springer},
+  address   = {New York, NY},
+  series    = {Statistics for Social and Behavioral Sciences},
+  doi       = {10.1007/978-1-4757-3456-0},
+  isbn      = {978-1-4757-3456-0}
+}
+```
+
+The Menagerie dataset is due to [Messer et al. (2025)](https://osf.io/q8jbt/overview); CIP submissions come from
+[Code in Place (Stanford University, 2024)](https://codeinplace.stanford.edu/). Please cite those sources
 independently if you use them.
