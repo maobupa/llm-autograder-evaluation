@@ -59,8 +59,12 @@ to this setting:
 - **The G-study — grading systems.** Generalizability-theory decomposition of
   score variance, run separately for the human and LLM systems, and combined
   with rater type as a fixed facet. The design and estimators follow Brennan,
-  *Generalizability Theory* (Springer, 2001); the variance components here are
-  estimated with standard Python libraries rather than Brennan's own software.
+  *Generalizability Theory* (Springer, 2001), not the accompanying GENOVA
+  software: for CIP's balanced, fully-crossed design the ANOVA variance
+  components are implemented directly from the closed-form estimators
+  (`analysis/rq2_gstudy.py`, cross-checked against the `GeneralizIT` package);
+  Menagerie's unbalanced, nested design instead uses `statsmodels` to fit the
+  model.
 
 ## Repository layout
 
@@ -73,7 +77,7 @@ analysis/     all statistics reported in the paper
   rq2_gstudy.py                G-study, CIP: per-system variance components
   rq2_gstudy_menagerie.py      G-study, Menagerie: per-system variance components
   rq2_combined.py              G-study, CIP: rater type as a fixed facet
-  rq2_combined_menagerie.py    RQ2, Menagerie: same
+  rq2_combined_menagerie.py    G-study, Menagerie: same
   appendix_c_outputs.py        regenerates appendix figures and LaTeX tables
 
 scripts/      data collection and preparation
