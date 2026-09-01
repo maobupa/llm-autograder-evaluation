@@ -48,7 +48,7 @@ The paper abbreviates the CIP rubric items; the code uses the fuller column
 names. They map as `input` → `input`, `logic` → `conditional_logic`,
 `print` → `printing`, `syntax` → `syntax_errors`.
 
-Nothing here is a new statistic. The repository applies two established methods
+The repository applies two established methods
 to this setting:
 
 - **The dCor analysis — alignment.** Squared bias-corrected distance
